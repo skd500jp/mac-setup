@@ -9,6 +9,5 @@
 https://qiita.com/7coAim/items/fe8ac542a78f9f985572
 ```
 % brew cask install alfred
-
-```
-
+% brew cask install google-chrome
+````
