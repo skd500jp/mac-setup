@@ -18,3 +18,11 @@ if [ ! -x "`which mas`" ]; then
 fi
 
 
+mas install 539883307 # LINE
+
+
+brew cask install google-japanese-ime
+brew cask install google-chrome
+
+brew cask install alfred
+brew cask install scroll-reverser
