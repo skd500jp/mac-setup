@@ -26,3 +26,13 @@ brew cask install google-chrome
 
 brew cask install alfred
 brew cask install scroll-reverser
+
+
+
+https://qiita.com/yu_haruchan/items/bc2fc9c55238002b6d18
+
+brew tap sanemat/font
+brew install ricty
+
+cp /opt/homebrew/opt/ricty/share/fonts/Ricty-*ttf  ~/Library/Fonts
+
