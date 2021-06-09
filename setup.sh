@@ -18,6 +18,9 @@ if [ ! -x "`which mas`" ]; then
 fi
 
 
+
+
+
 mas install 539883307 # LINE
 
 
